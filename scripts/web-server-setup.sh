@@ -11,7 +11,7 @@ sudo yum install git -y
 
 
 # Clone the repository
-git clone https://github.com/mariusforreal/ecommerce-web-app.git
+git clone https://github.com/Gaelleroy/ecommerce-web-app.git
 
 # Copy the files inside the cloned folder to the desired location
 sudo cp -r ecommerce-web-app/server1/* /var/www/html/
